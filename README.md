@@ -75,3 +75,8 @@ In addition, the board’s built-in WiFi hosts a dedicated website that explains
    ```bash
    git clone https://github.com/yourusername/PicoEdu.git
    cd PicoEdu
+
+
+We hope PicoEdu inspires educators and students to explore the fascinating world of hardware and electronics through interactive, hands-on learning!
+
+#PicoEdu #BitDogLab #IoT #EdTech #InteractiveLearning
